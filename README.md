@@ -5,3 +5,5 @@
 # http://localhost:4000/graphiql
 
 # http://localhost:4000/api/v1/paintings
+
+# http://localhost:4000/documentation documentations
